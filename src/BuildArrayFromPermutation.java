@@ -7,8 +7,6 @@ public class BuildArrayFromPermutation {
 
         System.out.println("nums = " + Arrays.toString(nums));
         System.out.println("ans  = " + Arrays.toString(ans));
-
-
     }
     public static int[]BuildArray(int[] nums) {
         int n = nums.length;
